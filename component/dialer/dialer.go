@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net"
 
-	"github.com/Dreamacro/clash/component/resolver"
+	"github.com/smallst/clash/component/resolver"
 )
 
 func Dialer() (*net.Dialer, error) {

@@ -14,7 +14,7 @@ var (
 
 	// DisableIPv6 means don't resolve ipv6 host
 	// default value is true
-	DisableIPv6 = true
+	DisableIPv6 = false
 
 	// DefaultHosts aim to resolve hosts
 	DefaultHosts = trie.New()

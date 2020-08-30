@@ -10,7 +10,7 @@ import (
 	"github.com/Dreamacro/clash/adapters/inbound"
 	"github.com/Dreamacro/clash/adapters/provider"
 	"github.com/Dreamacro/clash/component/nat"
-	"github.com/Dreamacro/clash/component/resolver"
+	"github.com/smallst/clash/component/resolver"
 	C "github.com/Dreamacro/clash/constant"
 	"github.com/Dreamacro/clash/dns"
 	"github.com/Dreamacro/clash/log"

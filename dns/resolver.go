@@ -13,7 +13,7 @@ import (
 	"github.com/Dreamacro/clash/common/cache"
 	"github.com/Dreamacro/clash/common/picker"
 	"github.com/Dreamacro/clash/component/fakeip"
-	"github.com/Dreamacro/clash/component/resolver"
+	"github.com/smallst/clash/component/resolver"
 	"github.com/Dreamacro/clash/component/trie"
 
 	D "github.com/miekg/dns"
